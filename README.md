@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @efraindlopez
 - 👀 I’m interested in Soccer
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Computer Science at the University of Houston
 - 💞️ I’m looking to collaborate on CS projects
 - 📫 How to reach me: efrainlopez5921@gmail.com
 
