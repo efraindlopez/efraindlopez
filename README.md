@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @efraindlopez
 - 👀 I’m interested in Chorizo
-- 🌱 I’m currently learning Computer Science at the University of Houston
-- 💞️ I’m looking to collaborate on CS projects
+- 🌱 I’m currently studying at the University of Houston
+- 💞️ I’m looking to collaborate on CS/Math projects
 - 📫 How to reach me: efrainlopez5921@gmail.com
 
 <!---
